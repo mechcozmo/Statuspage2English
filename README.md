@@ -11,3 +11,5 @@
 | Elevated Error Rates      | We don't want to admit that outages exist at AWS|
 | We have a plan            | That will happen next year |
 | We have a plan for a plan | It will never happen |
+| That's a great question   | I don't know the answer to that question |
+| Let's take that offline   | Shut up, I don't want to listen to you anymore in this meeting |
