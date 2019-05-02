@@ -13,3 +13,4 @@
 | We have a plan for a plan | It will never happen |
 | That's a great question   | I don't know the answer to that question |
 | Let's take that offline   | Shut up, I don't want to listen to you anymore in this meeting |
+| We take security seriously	| Every reasonable security measure has been taken, barring those that take time or cost money |
