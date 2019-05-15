@@ -16,3 +16,4 @@
 | We take security seriously	| Every reasonable security measure has been taken, barring those that take time or cost money |
 | We remain committed | We stopped putting development resources into this without calling it EOL (end of life) except for a Program Manager whose sole job is to eat it from very angry customers | 
 | Higher level outage | We're not really sure since we laid everyone off that was good at CenturyLink/Level 3 |
+| LastPass outage | The outage has been ongoing for an hour, but we are just now acknowledging it |
