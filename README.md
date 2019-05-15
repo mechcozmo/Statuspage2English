@@ -14,3 +14,4 @@
 | That's a great question   | I don't know the answer to that question |
 | Let's take that offline   | Shut up, I don't want to listen to you anymore in this meeting |
 | We take security seriously	| Every reasonable security measure has been taken, barring those that take time or cost money |
+| We remain committed | We stopped putting development resources into this without calling it EOL (end of life) except for a Program Manager whose sole job is to eat it from very angry customers | 
