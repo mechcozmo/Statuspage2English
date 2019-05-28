@@ -18,3 +18,4 @@
 | Higher level outage | We're not really sure since we laid everyone off that was good at CenturyLink/Level 3 |
 | LastPass outage | The outage has been ongoing for an hour, but we are just now acknowledging it |
 | Full of opportunity | Shit is on fire |
+| Great company culture | Instead of paying proper market rate for your salary, have some company culture™ instead | 
