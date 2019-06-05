@@ -18,4 +18,8 @@
 | Higher level outage | We're not really sure since we laid everyone off that was good at CenturyLink/Level 3 |
 | LastPass outage | The outage has been ongoing for an hour, but we are just now acknowledging it |
 | Full of opportunity | Shit is on fire |
+<<<<<<< HEAD
 | ORACLE | Old Rich Asshole Called Larry Ellison |
+=======
+| Great company culture | Instead of paying proper market rate for your salary, have some company culture™ instead | 
+>>>>>>> 6261c39ba3af686124864b5ebae32b95753cd985
