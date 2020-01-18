@@ -21,3 +21,4 @@
 | ORACLE | Old Rich Asshole Called Larry Ellison |
 | Great company culture | Instead of paying proper market rate for your salary, have some company culture™ instead |
 | Scheduled emergency downtime | Our lack of DevOps at the organization means you're getting a 15-minute heads-up that a business critical system will be taken offline in the middle of a busy work day | 
+# github-upload
