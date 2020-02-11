@@ -15,3 +15,10 @@
 | Let's take that offline   | Shut up, I don't want to listen to you anymore in this meeting |
 | We take security seriously	| Every reasonable security measure has been taken, barring those that take time or cost money |
 | We remain committed | We stopped putting development resources into this without calling it EOL (end of life) except for a Program Manager whose sole job is to eat it from very angry customers | 
+| Higher level outage | We're not really sure since we laid everyone off that was good at CenturyLink/Level 3 |
+| LastPass outage | The outage has been ongoing for an hour, but we are just now acknowledging it |
+| Full of opportunity | Shit is on fire |
+| ORACLE | Old Rich Asshole Called Larry Ellison |
+| Great company culture | Instead of paying proper market rate for your salary, have some company culture™ instead |
+| Scheduled emergency downtime | Our lack of DevOps at the organization means you're getting a 15-minute heads-up that a business critical system will be taken offline in the middle of a busy work day | 
+# github-upload
