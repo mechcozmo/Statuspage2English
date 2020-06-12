@@ -9,6 +9,7 @@
 | We are monitoring         | Pray for us and don't touch anything, the blinkenlights are back |
 | Scheduled Maintenance     | The security Guy "Found something" so we gotta do some patches and make him happy|
 | Elevated Error Rates      | We don't want to admit that outages exist at AWS|
+| Increased API Error Rates | We don't call them Elevated Error Rates anymore because. |
 | We have a plan            | That will happen next year |
 | We have a plan for a plan | It will never happen |
 | That's a great question   | I don't know the answer to that question |
